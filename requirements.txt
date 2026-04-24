@@ -8,6 +8,8 @@ langchain-openai
 langchain-mistralai
 openai
 mistralai
+langchain-huggingface
+sentence-transformers
 
 # Vector Database
 
